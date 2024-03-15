@@ -3,60 +3,41 @@
 Simple overview of use/purpose.
 
 ## Description
-
+This project is coded with java and using APIs from https://omdbapi.com and  https://api-ninjas.com/api/celebrity.
+The first API used to accessig movies and series details(such as duration , cast , ...) and the next one was used to show details of  the searched actor's name
+such as age , nationality , ...
 An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* For running this project , you need to install gradle as a package manager to download some
+  packages that are needed . you can install gradle from their site for free.
 
 ### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Intellij IDEA and JDK(JDK21 is recommended ) are needed to run the program.
+* All my project are available on github. This is the link : https://github.com/kourosh-mojdehi
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* open the project in intllij IDEA or any other IDEs.
+  Then run the main.java class using the gren buttonn on the top.
 
 ## Help
+Read README if you needed more help.
+You can contact the authors down below for more help.
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+By kourosh mojdehi
+contact on email: k.rashidimojdehi@gmail.com
 
 ## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
-    * Initial Release
+  * The Project completed and commited.
 
-## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+## Thanks to
+omdbapi.com  and  api-ninjas.com developers.
